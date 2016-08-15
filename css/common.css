@@ -1,0 +1,29 @@
+.button {
+	font-size: 20px;
+	display:inline-block;
+	border: none;
+	cursor:pointer;
+}
+.button-Our{
+	background-color: #262626;
+	margin-top: 30px;
+	margin-left: 80%;
+	padding: 20px 0px 20px 0px;
+	width:180px;
+	
+}
+
+.button-Learn{
+	font-size: 10px;
+	margin-left: 10%;
+	margin-top: 30px;
+	padding: 20px 0px 20px 0px;
+	width:220px;
+}
+
+.button-Learnmore2{
+	background-color: #262626;
+	margin-top: 30px;
+	padding: 20px 0px 20px 0px;
+	width:180px;
+}

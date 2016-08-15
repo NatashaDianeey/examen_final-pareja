@@ -1,0 +1,224 @@
+*{
+	font-family: Verdana;
+}
+/*-- Header --*/
+.background-inicio{
+	background-image: url("../img/background/hero.jpg");
+	background-color: black;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 800px;
+
+}
+
+.backr-black{
+	background: rgba(0, 0, 0, .6);
+	width: 102%;
+	height:800px ;
+
+}
+
+.icono-star{
+	width: 25%;
+	margin-left: 110px;
+	margin-top: 20px;
+}
+
+.margin-logo{
+	margin-top: 30px;
+	margin-left: 15px
+}
+.primes{
+	font-size: 25px;
+	margin:20px 0px 0px 0px;
+}
+
+.menu{
+	text-align: center;
+	font-size: 20px;
+	margin-top: 40px;
+}
+
+li{
+	text-decoration: none;
+	display: inline-block;
+	text-align: center;
+	margin: 5px 15px ;
+}
+
+.margen-centro{
+	margin: 200px 50px 0px 50px;
+}
+
+h1{	font-size: 50px;
+}
+
+.margen-top{
+	font-size: 15px;
+	margin: 50px 150px 30px 220px;
+}
+
+/*-- Section 1 --*/
+.margen-general{
+	margin: 120px 20px 120px 20px;
+}
+
+.margen-caja-texto{
+	margin:10px 80px;
+}
+
+
+/*-- Section 2 --*/
+.bckr-gris-feactures{
+	background-color: #e6e6e6;
+	width: 100%;
+	height: 580px;
+}
+
+/*-- Section 3 --*/
+.justific{
+	text-align: justify;
+}
+.margen-caja-texto2{
+	margin:10px 50px 10px 0px;
+}
+
+h2{
+	margin: 60px 0px 20px 0px;
+}
+
+.laps-tamaño{
+	width: 75%
+}
+
+/*-- Section 3 --*/
+
+.bckr-gris-2{
+	background-color: #e6e6e6;
+	width: 100%;
+	height: 1400px;
+}
+
+/*-- section 4--*/
+.border-image{
+	background-color: #fff;
+	border:0px 2px 5px 2px solid white;
+	padding: 10px
+}
+
+/*estilo seccion call action*/
+.fondo-call{
+	background: url("../img/background/city.jpg");
+	background-size: cover;
+	height: 350px;
+	background-repeat: no-repeat;	
+}
+/*estilos boton*/
+button{
+	font-weight: bold;
+	cursor: pointer;
+	border: none;
+}
+button.btn-trans{
+	padding: 2%;
+	background: rgba(255,255,255,.3);
+	color: #fff;
+}
+/*parrafos de call action*/
+.text-grande{
+	font-size: 20px;
+}
+/*estilos seccion paquetes*/
+/*texto paquetes*/
+.text-gris{
+	color: #515050;
+}
+
+/*col-4 paquetes*/
+.ancho{
+	width: 30%;
+	margin: 0 1%;
+}
+ul.paquetes{
+	margin: 3% 0;
+	padding: 3%;
+}
+ul.paquetes li{
+	text-decoration: none;
+	display: block;
+	border-bottom: 1px solid #9C9C9C;
+	padding: 5%;
+}
+.gray-fuerte{
+	background-color: #4A4949;
+	width: 100%;
+}
+.div-blanco{
+	background-color: #fff;
+	border: 1px solid #ACACAC;	
+}
+strong{
+	font-size: 25px;
+}
+/*caja premium*/
+.azul-caja{
+	background-color: #0CC0BF;
+}
+/*boton purchase*/
+button.btn-gris{
+	padding: 4% 8%;
+}
+/*seccion customer*/
+/*foto*/
+.redondo{
+	width: 10%;
+	height: auto;
+	border-radius: 100%;
+}
+/*seccion Contacto*/
+form{
+	margin: 5%;
+}
+input, textarea{
+	background: rgba(0, 5, 5, 0.4);
+	padding: 3% 5% 3% 2%;
+	margin: 3%;
+	width: 90%;
+	display: block;
+	border: none;
+}
+.btn-azul{
+	opacity: 1;
+	width: 40%;
+}
+.fondo-contacto{
+	background: url("../img/background/contactus.jpg");
+	background-size: 100% auto;
+	height: 600px;
+	background-repeat: no-repeat;	
+}
+/*opacidad*/
+.opacidad{
+	background: rgba(0,0,0,.6);
+}
+.bg-op-contac{
+	width: 100%;
+	height: 600px;
+}
+.bg-op-call{
+	width: 100%;
+	height: 350px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
